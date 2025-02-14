@@ -1,0 +1,29 @@
+Introduction (100-150 words)
+Tell me a little about yourself. What programming languages or technologies do you know? Do you have any experience with backend development or Node.js?
+
+-I am Lorenz ,from BSIS3. I am not an expert student when it comes to programming. I am not that fluent and I can't start a code from scratch, I always search for help in my browser on how I should perform specific programming tasks and have some help from my classmates. But to clarify, we studied python and Java in our previous years. When it comes to technology usage, I only know simple and brief usage of technology, not the complicated areas of it. The thing that I am using right now for my role in our project is Figma and I am honing my skills in that field. I don't have a major experience in backend development and Node.js, I only have experience of it in our activities, that's why I am not for backend development, it's not my forte.
+
+
+Course Expectations (200-300 words)
+What do you want to achieve in this course?
+What specific skills do you hope to learn (e.g., building APIs, using Node.js and Express)?
+How do you think backend development will help you in your career or studies?
+
+-I expect in this course that we will have a knowledge and ideas on how we will work when it comes to Application Development, and also I want to learn new things, and I am interested in the new thing that we will tackle the MongoDB, on how will it helps us in making our project more efficient.
+- In our 1st online class this semester I see many things that we should learn besides from other resources about Node.js. I want to learn things for Application testing, and there are many online tools that we can use when it comes to this field as seen in our discussion.
+-I think backend development will help me a lot personally, because I can gain new knowledges from it and I will have ideas on how the logic in our code will works, besides that backend development is an essential for Application Development that's why we should really have knowledge on how those things will work, lastly it is also needed to be understand by the people in the IT field in order to make their work more efficient, and that's the reason why this will help me in my career and studies.
+
+Challenges and Areas for Improvement (150-200 words)
+Are there any topics that you find difficult or want to improve on (e.g., working with databases, building APIs, error handling)?
+How do you plan to overcome these challenges during the course?
+-Almost all of the examples topics and areas that were said into this are the things that i want to improved because I am not good at this areas, and I really struggle and and have difficulties in this topics because I am not a backend developer but atleast I want to have a goal of knowing how to deal with this areas in our subject. Particularly I want to study working with databases because it is important to have an idea on how it would work because it is essential when it comes to data handlings and how we should properly perform it and give justice on the proper etiquette on data handling.
+In order to overcome the challenges in this course I will need to give more effort and work more efficiently with my classmates. I also need to advance my studies so I can keep up with everyone in this field.
+
+Expectations from the Instructor (100-150 words)
+What do you expect from me as your instructor to help you succeed in this course?
+Are there any resources, teaching methods, or tools that would help you learn better (e.g., coding examples, tutorials, additional resources)?
+
+-I expect Sir Elmer to stay the way he teach, and for me it really helps us the way you teach and set your rules inside the classroom, also the resources compilation that you gave to us is very useful, I hope that you will still continue in providing those learning materials and it helps us a lot, also the summarized exam reviewers helps us boost our grade and save more time for us. I think when it comes to the teaching methods, it is already good and I can't think of anything that will result better, the style of teaching that you do to us is mostly effective. 
+Final Thoughts (Optional, 50-100 words)
+Anything else you'd like to add about your goals for the course or how you want to learn?
+-I want to learn all of the new knowledge that will be tackled in our final term, and also I set my goals that I will do the things that is needed to be done, I hope that I and my classmates will work together and i hope that we will have a good and respectable relationship with each other inside and outside the classroom.
