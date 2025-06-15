@@ -1,16 +1,23 @@
 {
   "name": "simple-book-api-with-email",
   "version": "1.0.0",
-  "main": "server.js",
-  "scripts": {
+  "main": "server.js",  "scripts": {
     "start": "nodemon server.js --trace-warnings",
-    "dev": "nodemon server.js --trace-warnings"
+    "dev": "nodemon server.js --trace-warnings",
+    "seed": "node seeders/seed.js"
   },
-  "keywords": ["book-api", "email-notification", "mongodb", "express"],
+  "keywords": [
+    "book-api",
+    "email-notification",
+    "mongodb",
+    "express"
+  ],
   "author": "",
   "license": "ISC",
   "description": "Book API with Authentication and Email Notifications",
   "dependencies": {
+    "@faker-js/faker": "^9.8.0",
+    "bcrypt": "^6.0.0",
     "bcryptjs": "^3.0.2",
     "cors": "^2.8.5",
     "dotenv": "^16.5.0",
