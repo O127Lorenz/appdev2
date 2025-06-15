@@ -31,12 +31,14 @@ app.get('/', (req, res) => {
     res.send('Simple Book API using Node.js, Express, and MongoDB with Authentication');
 });
 
-// Apply rate limiting
+// Apply rate limiting to all routes
 app.use(rateLimit);
 
-// Mount routes directly and with /api prefix for flexibility
+// Mount routes
 app.use('/auth', authRoutes);
 app.use('/books', bookRoutes);
+
+// Mount routes with /api prefix (for backward compatibility)
 app.use('/api/auth', authRoutes);
 app.use('/api/books', bookRoutes);
 
