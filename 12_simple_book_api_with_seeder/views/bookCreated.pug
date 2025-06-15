@@ -1,0 +1,64 @@
+doctype html
+html
+  head
+    meta(charset='utf-8')
+    style.
+      body {
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        color: #333;
+        max-width: 600px;
+        margin: 0 auto;
+        padding: 20px;
+      }
+      .header {
+        background-color: #4CAF50;
+        color: white;
+        padding: 20px;
+        text-align: center;
+        border-radius: 5px;
+      }
+      .content {
+        background-color: #f9f9f9;
+        padding: 20px;
+        border-radius: 5px;
+        margin-top: 20px;
+      }
+      .book-details {
+        margin: 20px 0;
+        padding: 15px;
+        background-color: white;
+        border-radius: 5px;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      }
+      .footer {
+        text-align: center;
+        margin-top: 20px;
+        color: #666;
+        font-size: 0.9em;
+      }
+
+  body
+    .header
+      h1 New Book Added to Library
+    
+    .content
+      p A new book has been successfully added to the system.
+      
+      .book-details
+        h2 Book Details
+        p
+          strong Title: 
+          span #{title}
+        p
+          strong Author: 
+          span #{author}
+        p
+          strong Year Published: 
+          span #{yearPublished || 'Not specified'}
+      
+      p.confirmation-message This book has been successfully added to our library system.
+    
+    .footer
+      p Thank you for using our Book Management System
+      small This is an automated notification. Please do not reply to this email.
